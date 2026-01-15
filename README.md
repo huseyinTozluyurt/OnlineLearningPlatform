@@ -3,7 +3,7 @@
 A web-based educational game platform designed for kids. Players join a room and play a board-game style experience powered by questions/answers. Includes an Admin panel to manage rooms and question sets.
 
 > ✅ Built as a full-stack project: **React + Vite** frontend, **Spring Boot** backend, **MySQL** database.
-<img width="1786" height="960" alt="game" src="https://github.com/user-attachments/assets/d2828868-0b7e-43b2-9971-68ab3a35e1f1" />
+<img width="800" height="400" alt="game2" src="https://github.com/user-attachments/assets/38d7c55b-79d7-470f-a9d7-af2e8cdb4508" />
 
 ---
 
@@ -102,6 +102,7 @@ npm run dev
 
 ```
 ## 📸 Screenshots
+<img width="1786" height="960" alt="game" src="https://github.com/user-attachments/assets/d2828868-0b7e-43b2-9971-68ab3a35e1f1" />
 <img width="800" height="400" alt="user_management" src="https://github.com/user-attachments/assets/de7e9103-1ae5-4451-99c6-85715efb0c08" />
 <img width="800" height="400" alt="room_management" src="https://github.com/user-attachments/assets/f2e87ff7-97d8-4302-93c6-6675398b71b9" />
 <img width="800" height="400" alt="question_management2" src="https://github.com/user-attachments/assets/c6cc8f48-a5ab-4534-add6-9f8a45cd5c6e" />
@@ -109,7 +110,6 @@ npm run dev
 <img width="800" height="400" alt="odalar" src="https://github.com/user-attachments/assets/82e6a95c-0333-4a8a-b57f-9c6aa9608fea" />
 <img width="800" height="400" alt="giris" src="https://github.com/user-attachments/assets/f6d7044d-599d-4bfb-8c6c-6900ae3d8cdc" />
 <img width="800" height="400" alt="game3" src="https://github.com/user-attachments/assets/90d06ae9-d69c-4b6b-906d-85fa845e5565" />
-<img width="800" height="400" alt="game2" src="https://github.com/user-attachments/assets/38d7c55b-79d7-470f-a9d7-af2e8cdb4508" />
 <img width="800" height="400" alt="game_lobby" src="https://github.com/user-attachments/assets/20c329cc-2622-4afd-9c16-80bc5d6802e3" />
 <img width="800" height="400" alt="game_end" src="https://github.com/user-attachments/assets/1409fa8a-d624-4f4d-9096-027924cbcd08" />
 ```md
